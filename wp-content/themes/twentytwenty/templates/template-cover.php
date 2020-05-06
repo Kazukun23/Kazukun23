@@ -25,6 +25,7 @@ get_header();
 	}
 
 	?>
+		<script src="http://localhost:8089/wordpress\wp-content\themes\twentytwenty\prueba.js"></script>
 
 </main><!-- #site-content -->
 

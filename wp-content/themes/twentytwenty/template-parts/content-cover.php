@@ -76,7 +76,7 @@
 								<?php
 							}
 
-							the_title( '<h1 class="entry-title">', '</h1>' );
+							the_title( '<h1 id="titulo" class="entry-title">', '</h1>' );
 
 							if ( is_page() ) {
 								?>
@@ -178,5 +178,6 @@
 		<?php
 	}
 	?>
+		<script src="http://localhost:8089/wordpress\wp-content\themes\twentytwenty\prueba.js"></script>
 
 </article><!-- .post -->
