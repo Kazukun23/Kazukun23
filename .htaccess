@@ -1,4 +1,4 @@
-
+﻿
 	# WP Maximum Execution Time Exceeded
 	<IfModule mod_php5.c>
 		php_value max_execution_time 300
@@ -17,3 +17,4 @@ RewriteRule . /wordpress/index.php [L]
 </IfModule>
 
 # END WordPress
+php_value max_execution_time 600
